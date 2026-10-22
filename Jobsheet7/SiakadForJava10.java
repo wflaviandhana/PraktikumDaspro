@@ -22,7 +22,7 @@ public class SiakadForJava10 {
             }
 
         }
-
+//output
         System.out.println("Nilai tertinggi: " + tertinggi);
         System.out.println("Nilai terendah: " + terendah);
 
